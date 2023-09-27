@@ -1,4 +1,5 @@
-[
+{
+     "movie":[
      {
           "title":"dunki",
           "info":"Adventure & comedy • 2023 • 2 hr 35min",
@@ -21,3 +22,4 @@
           "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyYGXmTL2v4O2qgTwalyCbujfxh7oIMBtIpZp30sDqYCkFxep7_-n884&s=10"
      }
 ]
+}
