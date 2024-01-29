@@ -1,0 +1,30 @@
+{
+    "songs": [
+
+        {
+            "name": "Naa Ready",
+            "singer": "Anirudh Ravichander",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/NaaReady.mp3"
+        },
+        {
+            "name": "Arabic Kuthu",
+            "singer": "Anirudh Ravichander",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/ArabicKuthu.mp3"
+        },
+        {
+            "name": "Badass",
+            "singer": "Anirudh Ravichander",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/Badass.mp3"
+        },
+        {
+            "name": "Ordinary Person",
+            "singer": "Anirudh Ravichander",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/OrdinaryPerson.mp3"
+        },
+        {
+            "name": "Monster",
+            "singer": "Ravi Basrur",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/Monster.mp3"
+        }
+    ]
+}
