@@ -1,0 +1,30 @@
+{
+    "songs": [
+
+        {
+            "name": "Night Changes",
+            "singer": "One Direction",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/NightChanges.mp3"
+        },
+        {
+            "name": "Let Me Down Slowly",
+            "singer": "Alec Benjamin",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/LetMeDownSlowly.mp3"
+        },
+        {
+            "name": "Love Me Like You Do",
+            "singer": "Ellie Goulding",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/LoveMeLikeYouDo.mp3"
+        },
+        {
+            "name": "Señorita",
+            "singer": "Shawn Mendes",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/Senorita.mp3"
+        },
+        {
+            "name": "Closer",
+            "singer": "Chainsmokers",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/Closer.mp3"
+        }
+    ]
+}
