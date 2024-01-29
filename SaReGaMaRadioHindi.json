@@ -1,0 +1,37 @@
+{
+    "songs": [
+
+        {
+            "name": "Malang",
+            "singer": "Siddharth Mahadevan",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/Malang.mp3"
+        },
+        {
+            "name": "Voh Dekhnay Mein",
+            "singer": "Ali Zafar",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/VohDekhnayMein1.mp3"
+        },
+        {
+            "name": "TU HAI KAHAN",
+            "singer": "AUR",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/TUHAIKAHAN.mp3"
+        },
+        {
+            "name": "Tu Tu Hai Wahi",
+            "singer": "Kishore Kumar",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/YehVaadaRaha.mp3"
+        },
+        {
+            "name": "Nahin Maloom",
+            "singer": "Ali Zafar",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/TotalSiyapaa.mp3"
+        }
+        ,
+        {
+            "name": "Main Tera Rasta Dekhunga",
+            "singer": "Shadab Faridi",
+            "audio": "https://github.com/Short-Zed/Movie-Responsive-Site/raw/main/MainTeraRastaDekhunga.mp3"
+        }
+        
+    ]
+}
